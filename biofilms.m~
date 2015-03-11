@@ -1,6 +1,6 @@
 % Euler parameters
-dt = 0.1;
-t = 0:dt:10;
+dt = 0.01;
+t = 0:dt:20;
 
 % constants
 ka = 0.029; %antibiotic kill rate (no reaction)
